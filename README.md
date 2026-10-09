@@ -1,93 +1,148 @@
-<!-- ================= HEADER SECTION ================= -->
+ <!-- ================= HEADER ================= -->
+
 <div align="center">
 
-  <!-- אפקט הקלדה דינמי (SVG) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E7D32&center=true&vcenter=true&width=500&lines=Full+Stack+%26+System+Developer;Building+Awesome+Projects;Welcome+to+my+profile!" alt="Typing Banner" />
+# 👋 שלום, אני YSmauas
 
-  <br />
+### מפתח כלים, אפליקציות ופתרונות טכנולוגיים
 
-  <!-- מונה צפיות לפרופיל -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2e7d32&style=flat-square" alt="Profile Views" />
-  </p>
+אני אוהב לקחת רעיון, להבין איך הוא עובד מאחורי הקלעים ולהפוך אותו לכלי שימושי — מאפליקציות Android והתאמות מערכת ועד כלי Web, אוטומציה וממשקים חכמים.
 
-  <!-- באדג'ים של רשתות חברתיות ויצירת קשר -->
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-YSmauas-181717?style=for-the-badge\&logo=github)](https://github.com/YSmauas)
+[![Mitmachim Top](https://img.shields.io/badge/מתמחים_טופ-קהילת_הטכנולוגיה-2E7D32?style=for-the-badge)](https://mitmachim.top/user/%D7%A0%D7%97%D7%9C%D7%A1-%D7%93%D7%95%D7%9F)
+[![My Developments](https://img.shields.io/badge/My_Developments-הפרויקטים_שלי-0078D4?style=for-the-badge)](https://mydevelopments.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=YSmauas&label=Profile%20Views&color=2E7D32&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br />
-<hr />
+---
 
-<!-- ================= ABOUT ME (TWO COLUMNS TABLE) ================= -->
-<h2>👨‍💻 על עצמי</h2>
+## 👨‍💻 קצת עליי
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>שלום! אני מפתח תוכנה החוקר ומפתח פתרונות מקצה לקצה, החל מאפליקציות ואינטרנט ועד להתאמות מערכת ברמה נמוכה.</p>
-      <ul>
-        <li>🔭 <b>כרגע עובד על:</b> פיתוח כלים ואפליקציות מותאמות אישית.</li>
-        <li>🌱 <b>לומד כרגע:</b> טכנולוגיות Web מתקדמות וארכיטקטורת תוכנה.</li>
-        <li>⚡ <b>תחום עניין:</b> אוהב להבין איך דברים עובדים מתחת למכסה המנוע של המערכת.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <!-- כרטיס שפות מובילות -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+* 📱 **Android ומערכות:** פיתוח כלים והתאמות למכשירי Android, כולל נגני M36 ומכשירים דומים.
+* 🌐 **פיתוח Web:** בניית אתרים, ממשקים אינטראקטיביים וכלים שאפשר להשתמש בהם ישירות בדפדפן.
+* 🧰 **כלים שימושיים:** יצירת פתרונות להורדה, אוטומציה ושיפור תהליכי עבודה.
+* 🤖 **AI ופיתוח:** שילוב יכולות בינה מלאכותית בכלים ובממשקים.
+* 🛡️ **אבטחה ואמינות:** תשומת לב להרשאות, להגנה על נתונים ולמנגנוני גיבוי ושחזור.
+* 💡 **למידה והתנסות:** חקירת טכנולוגיות, ניסויים, שיפור קוד ושיתוף ידע עם הקהילה.
 
-<hr />
+---
 
-<!-- ================= TECH STACK (ICONS GRID) ================= -->
-<h2>🛠️ טכנולוגיות וכלים</h2>
+## 🚀 פרויקטים נבחרים
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,android,git,github,vscode,linux,nodejs,express&perline=6" alt="Tech Stack" />
-</p>
+### 📱 Android ומערכות
 
-<hr />
+<details open>
+<summary><b>מנהל נגן M36 כשר</b></summary>
 
-<!-- ================= GITHUB STATS ================= -->
-<h2>📊 סטטיסטיקות</h2>
+אפליקציה לניהול ולהתאמה של נגני Android כשרים, עם אפשרויות לניהול רכיבי מערכת, התקנת חבילות והתאמת יכולות המכשיר.
+
+* טכנולוגיות: Kotlin, Android, Gradle.
+* כולל תהליכי Build אוטומטיים באמצעות GitHub Actions.
+
+🔗 [למאגר M36_kosher](https://github.com/YSmauas/M36_kosher)
+
+</details>
+
+<details>
+<summary><b>M36 Logo & Animation Changer</b></summary>
+
+מודול Magisk לשינוי לוגו האתחול והאנימציה של נגני M36, עם גיבוי של הלוגו המקורי ומנגנוני שחזור.
+
+* טכנולוגיות: Shell, Magisk.
+* כולל בדיקות תקינות וגיבוי לפני שינוי רכיבי המערכת.
+
+🔗 [למאגר m36-logo-animation](https://github.com/YSmauas/m36-logo-animation)
+
+</details>
+
+### 🌐 Web וכלים למפתחים
+
+<details open>
+<summary><b>WEblok — בלוקים חכמים לאתרים</b></summary>
+
+ספריית רכיבי Web עם עורך חי, המאפשרת לעצב רכיבים, לייצא קוד עצמאי ולבנות ממשקים. הפרויקט כולל גם יכולות AI, תמיכה ב־RTL/LTR ואינטגרציה עם Supabase.
+
+* טכנולוגיות: Next.js, React, TypeScript, Tailwind CSS, Supabase.
+* כולל כלים לייצוא קוד, לניהול פרויקטים ולהטמעת רכיבים באתרים.
+
+🔗 [למאגר WEblok](https://github.com/YSmauas/weblok)
+🌍 [לגרסה המקוונת](https://weblok-alpha.vercel.app/)
+
+</details>
+
+<details>
+<summary><b>My Developments — חנות הפרויקטים שלי</b></summary>
+
+אתר המרכז כלים ופיתוחים שיצרתי, עם אפשרות להורדת קבצים ויצירת קשר. האתר כולל גם ווידג'ט AI.
+
+* טכנולוגיות: HTML, CSS, JavaScript.
+* משמש כנקודת כניסה לפרויקטים ולכלים שפרסמתי.
+
+🔗 [למאגר My_web](https://github.com/YSmauas/My_web)
+🌍 [לאתר הפעיל](https://mydevelopments.vercel.app/)
+
+</details>
+
+### 🐍 Python ומשחקים
+
+<details open>
+<summary><b>Snake for Windows</b></summary>
+
+משחק סנייק בהשראת מכשירי Nokia הקלאסיים, עם ממשק בעברית, שמירת שיאים, אפקטים קוליים ומנגנון עדכון אוטומטי.
+
+* טכנולוגיות: Python, Pygame.
+* כולל תהליך Build אוטומטי ליצירת קובץ EXE באמצעות GitHub Actions.
+
+🔗 [למאגר Snake-for-Windows](https://github.com/YSmauas/Snake-for-Windows)
+
+</details>
+
+---
+
+## 🛠️ טכנולוגיות וכלים
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  </p>
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,typescript,javascript,html,css,react,nextjs,nodejs,supabase,git,github,linux,vscode,vercel&perline=5" alt="Technologies and tools" />
+
 </div>
 
-<hr />
+**תחומי העבודה שלי:** פיתוח אפליקציות וכלי מערכת, פיתוח Web, ממשקים רספונסיביים, אוטומציה, אינטגרציות ושילוב יכולות AI.
 
-<!-- ================= COLLAPSIBLE SECTIONS (INTERACTIVE HTML) ================= -->
-<h2>💡 פרויקטים נבחרים ומידע נוסף</h2>
+---
 
-<details>
-  <summary><b>🚀 לחץ כאן לצפייה בפרויקטים מובילים</b></summary>
-  <br />
-  <ul>
-    <li><b><a href="https://github.com/YOUR_USERNAME/project-1">פרויקט 1</a></b> - תיאור קצר של הפרויקט, המטרות והטכנולוגיות.</li>
-    <li><b><a href="https://github.com/YOUR_USERNAME/project-2">פרויקט 2</a></b> - כלי או אפליקציה שיצרת.</li>
-  </ul>
-</details>
+## 📊 הפעילות שלי ב־GitHub
 
-<details>
-  <summary><b>⚙️ הגדרות וסביבת עבודה</b></summary>
-  <br />
-  <p>פירוט התוכנות, העורכים והרכיבים שאני משתמש בהם ביומיום לפיתוח.</p>
-</details>
-
-<br />
-
-<!-- ================= FOOTER ================= -->
 <div align="center">
-  <p><i>תודה שביקרת בפרופיל שלי! 🚀</i></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YSmauas&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSmauas&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=YSmauas&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="100%" />
+
+</div>
+
+---
+
+## 🤝 גם מחוץ ל־GitHub
+
+אני משתתף בקהילת הטכנולוגיה של מתמחים טופ, שם אפשר למצוא דיונים, שאלות, שיתופי ידע והתעסקות מעשית בטכנולוגיה.
+
+* 💬 [הפרופיל שלי במתמחים טופ](https://mitmachim.top/user/%D7%A0%D7%97%D7%9C%D7%A1-%D7%93%D7%95%D7%9F)
+* 🧑‍💻 [כל המאגרים שלי ב־GitHub](https://github.com/YSmauas?tab=repositories)
+* 🌐 [האתר שלי — My Developments](https://mydevelopments.vercel.app/)
+
+---
+
+<div align="center">
+
+### תודה שביקרתם בפרופיל שלי! 👋
+
+*רעיונות הופכים לכלים, וכל פרויקט הוא הזדמנות ללמוד ולשפר.*
+
+⭐ מוזמנים לעיין בפרויקטים, לנסות אותם ולשתף משוב.
+
 </div>
