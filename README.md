@@ -1,18 +1,16 @@
  <!-- ================= HEADER ================= -->
-
 <div align="center">
 
-# 👋 שלום, אני YSmauas
+<img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=600&size=26&pause=1200&color=2E7D32&center=true&vCenter=true&width=600&height=100&lines=ברוכים+הבאים+לפרופיל+שלי!;מפתח+כלים+ואפליקציות;Android+%7C+Web+%7C+Open+Source;תמיד+לומד%2C+יוצר+ומשפר" alt="אנימציית הקלדה" />
 
-### מפתח כלים, אפליקציות ופתרונות טכנולוגיים
+<br/>
 
-אני אוהב לקחת רעיון, להבין איך הוא עובד מאחורי הקלעים ולהפוך אותו לכלי שימושי — מאפליקציות Android והתאמות מערכת ועד כלי Web, אוטומציה וממשקים חכמים.
-
-[![GitHub](https://img.shields.io/badge/GitHub-YSmauas-181717?style=for-the-badge\&logo=github)](https://github.com/YSmauas)
-[![Mitmachim Top](https://img.shields.io/badge/מתמחים_טופ-קהילת_הטכנולוגיה-2E7D32?style=for-the-badge)](https://mitmachim.top/user/%D7%A0%D7%97%D7%9C%D7%A1-%D7%93%D7%95%D7%9F)
-[![My Developments](https://img.shields.io/badge/My_Developments-הפרויקטים_שלי-0078D4?style=for-the-badge)](https://mydevelopments.vercel.app/)
-
-<img src="https://komarev.com/ghpvc/?username=YSmauas&label=Profile%20Views&color=2E7D32&style=flat-square" alt="Profile views" />
+<a href="https://github.com/YSmauas">
+<img src="https://komarev.com/ghpvc/?username=YSmauas&label=Profile%20Views&color=2e7d32&style=flat-square" alt="Profile Views"/>
+</a>
+<a href="https://mitmachim.top/user/%D7%A0%D7%97%D7%9C%D7%A1-%D7%93%D7%95%D7%9F">
+<img src="https://img.shields.io/badge/מתמחים%20טופ-קהילת%20הטכנולוגיה-2E7D32?style=flat-square" alt="מתמחים טופ"/>
+</a>
 
 </div>
 
