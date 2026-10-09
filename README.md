@@ -1,7 +1,7 @@
  <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Heebo&weight=600&size=26&pause=1200&color=2E7D32&center=true&vCenter=true&width=600&height=100&lines=ברוכים+הבאים+לפרופיל+שלי!;מפתח+כלים+ואפליקציות;Android+%7C+Web+%7C+Open+Source;תמיד+לומד%2C+יוצר+ומשפר" alt="אנימציית הקלדה" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E7D32&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Building+useful+tools+and+apps;Android+%7C+Web+%7C+Open+Source;Always+learning%2C+building+and+improving" alt="Typing animation: Welcome to my GitHub; Building useful tools and apps; Android, Web and Open Source; Always learning, building and improving" />
 
 <br/>
 
@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=YSmauas&label=Profile%20Views&color=2e7d32&style=flat-square" alt="Profile Views"/>
 </a>
 <a href="https://mitmachim.top/user/%D7%A0%D7%97%D7%9C%D7%A1-%D7%93%D7%95%D7%9F">
-<img src="https://img.shields.io/badge/מתמחים%20טופ-קהילת%20הטכנולוגיה-2E7D32?style=flat-square" alt="מתמחים טופ"/>
+<img src="https://img.shields.io/badge/Community-Mitmachim%20Top-2E7D32?style=flat-square" alt="Mitmachim Top community"/>
 </a>
 
 </div>
